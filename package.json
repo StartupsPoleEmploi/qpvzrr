@@ -1,0 +1,25 @@
+{
+  "name": "qpvzrr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:beg/qpvzrr.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://qpvzrr.herokuapp.com/zrr",
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "electron": "1.6.10",
+    "express": "4.13.3",
+    "lodash": "4.17.4",
+    "nightmare": "2.10.0",
+    "node-persist": "2.1.0",
+    "json-server": "0.12.1"
+  }
+}
